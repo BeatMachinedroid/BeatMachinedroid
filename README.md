@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @BeatMachinedroid
-- 👀 I’m interested about programing
-- 🌱 I’m currently learning programing, hacking and all about IT
-- 📫 How to reach me ...
+Hi There
 
 <!---
 BeatMachinedroid/BeatMachinedroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
